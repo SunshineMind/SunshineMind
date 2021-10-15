@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SunshineMind
-- 👀 I’m interested in Unity3d
-- 🌱 I’m currently learning Unity3d
 - 📫 0@s10d.top
 
 <!---
