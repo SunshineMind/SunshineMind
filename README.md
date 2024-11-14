@@ -1,5 +1,4 @@
-- Hi, I’m @SunshineMind
-- 垃圾独立游戏制作人，刺耳电子音乐制作人，幼稚园水平水彩画画家
+- Hi, I’m jason @SunshineMind
 - 0@s10d.top
 
 <!---
